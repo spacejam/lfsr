@@ -1,0 +1,16 @@
+[package]
+name = "lfsr"
+version = "0.1.0"
+authors = ["Tyler Neely <t@jujit.su>"]
+description = "a small collection of linear feedback shift registers for testing purposes"
+license = "Apache-2.0"
+homepage = "https://github.com/spacejam/lfsr"
+repository = "https://github.com/spacejam/lfsr"
+keywords = ["math", "testing"]
+documentation = "https://docs.rs/lfsr/"
+readme = "README.md"
+
+[package]
+authors = ["Tyler Neely <t@jujit.su>"]
+
+[dependencies]

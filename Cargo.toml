@@ -10,7 +10,4 @@ keywords = ["math", "testing"]
 documentation = "https://docs.rs/lfsr/"
 readme = "README.md"
 
-[package]
-authors = ["Tyler Neely <t@jujit.su>"]
-
 [dependencies]
